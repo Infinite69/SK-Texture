@@ -96,7 +96,7 @@ export const Footer: React.FC = () => {
               Gurugram, Haryana, India
             </p>
             <p className="text-xs text-neutral-300 font-mono">
-              Phone: 9811221010 / 7982399273<br />
+              Phone: 9811221010 <br />
               Email: sktexture1@gmail.com
             </p>
           </div>
